@@ -22,3 +22,11 @@
 .p-t-5 {
     padding-top: 5rem;
 }
+
+.backgroundmid {
+    background-color: #baa584;
+}
+
+hov:hover {
+   box-shadow: 0px 0px 30px white;
+}
